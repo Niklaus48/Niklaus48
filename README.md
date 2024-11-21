@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amin AKA @Niklaus48
 - 👀 I’m interested in GameDevelopment and Back-End Development
-- 🌱 I’m currently learning PHP and Unity
+- 🌱 I’m currently using Unity and a bit ASp.Net
 - 📫 How to reach me on Telegram :@Niklaus48
 - ⚡ Fun fact: You Are The {CSS} To My <HTML>
 
